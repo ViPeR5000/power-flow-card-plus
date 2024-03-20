@@ -27,7 +27,7 @@
     "start": "rollup -wc"
   },
   "dependencies": {
-    "@material/mwc-ripple": "^0.19.1",
+    "@material/mwc-ripple": "^0.27.0",
     "custom-card-helpers": "^1.9.0",
     "home-assistant-js-websocket": "^8.0.1",
     "lit": "^2.2.2",
